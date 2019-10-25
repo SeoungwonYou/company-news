@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "17472493425",
+    "firebase_url": "https://ms-news-app.firebaseio.com",
+    "project_id": "ms-news-app",
+    "storage_bucket": "ms-news-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:17472493425:android:e412be2891ec27567788d0",
+        "android_client_info": {
+          "package_name": "ms.appcenter.sample.companynews"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "17472493425-1geo1ic5aia72a2te28g390imtuiqij1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoxEqENl6uBwD5RaQs43ssY4k-4ruZQWA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "17472493425-1geo1ic5aia72a2te28g390imtuiqij1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
